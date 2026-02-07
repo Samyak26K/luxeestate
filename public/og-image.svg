@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0B0B" />
+      <stop offset="1" stop-color="#131313" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7B76A" />
+      <stop offset="0.5" stop-color="#F3D38A" />
+      <stop offset="1" stop-color="#C8A457" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="80" y="80" width="1040" height="470" rx="36" stroke="#2A2A2A" fill="#0F0F0F" />
+
+  <text x="140" y="270" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="6">LUXEESTATE</text>
+  <text x="140" y="340" fill="#E6D9B3" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="8">PRIVATE REAL ESTATE ADVISORY</text>
+  <text x="140" y="420" fill="#B9B9B9" font-family="Arial, Helvetica, sans-serif" font-size="26">Curated listings · Discreet representation · Bespoke service</text>
+
+  <circle cx="1030" cy="270" r="90" stroke="url(#gold)" stroke-width="2" fill="#0B0B0B" />
+  <text x="1000" y="300" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="96">LE</text>
+</svg>

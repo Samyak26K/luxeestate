@@ -89,7 +89,7 @@ The application will start on the local development port shown in the terminal.
 
 ---
 
-##🌟 Key Features
+## 🌟 Key Features
 
 Fully responsive layout
 

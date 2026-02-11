@@ -66,6 +66,7 @@ src/
   utils/
   constants/
   styles/
+```
 
 ---
 

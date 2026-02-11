@@ -118,8 +118,7 @@ Architecture reflects real-world frontend engineering practices
 👤 Author
 
 Samyak K.
-Frontend Developer
 
 ---
 
-<p align="center"> Crafted with attention to detail and modern frontend standards ✨ </p> ```
+<p align="center"> Crafted with attention to detail and modern frontend standards ✨ </p> 
